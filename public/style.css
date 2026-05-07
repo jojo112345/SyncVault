@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    background: #111;
+    color: white;
+    padding: 20px;
+}
+
+#files, #versions {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #333;
+}
+
+.item {
+    padding: 8px;
+    cursor: pointer;
+    border-bottom: 1px solid #222;
+}
+
+.item:hover {
+    background: #222;
+}
